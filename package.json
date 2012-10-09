@@ -1,0 +1,19 @@
+{
+  "name": "palindrode",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ankur Oberoi",
+    "email": "aoberoi@gmail.com"
+  },
+  "main": "lib/palindrode",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.16"
+  },
+  "keywords": []
+}
